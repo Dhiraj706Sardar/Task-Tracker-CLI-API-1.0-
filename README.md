@@ -14,7 +14,7 @@ A production-grade Spring Boot CLI-style task tracking app with Swagger, Docker,
 ## Getting Started
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/Dhiraj706Sardar/Task-Tracker-CLI-API-1.0-.git)
 cd TaskTrackerCLI
 mvn clean install
 java -jar target/TaskTrackerCLI-0.0.1-SNAPSHOT.jar
